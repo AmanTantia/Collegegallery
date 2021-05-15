@@ -1,0 +1,42 @@
+img{
+  height:200px;
+  width:300px;
+  position: relative;
+  margin: auto 5px auto 5px;
+  border-radius: 5%;
+}
+h2{
+  display:inline-block;
+}
+.row1-img{
+  top: 20px ;
+}
+.row2-img{
+  left:150px;
+}
+.col1-img{
+  left:50px;
+}
+.col2-img{
+  left: 204px;
+}
+.col3-img{
+  left: 124px;
+}
+.col4-img{
+  left:20.5px;
+}
+.col5-img{
+  left:101px;
+}
+.posi{
+  position: relative;
+  bottom: 80px;
+}
+.firsthr{
+  margin-bottom: 0;
+}
+.secondhr{
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
